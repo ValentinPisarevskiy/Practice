@@ -7,7 +7,10 @@
 </div>
 
 # First day. Begin
-
+  ### - [First task](https://github.com/ValentinPisarevskiy/Practice/blob/main/First_task/First_task/Controllers/WeatherForecastController.cs)<br>
+  ![218038937-f8184315-5065-47fa-af30-6eaece8fedac](https://user-images.githubusercontent.com/126852668/222668538-27405836-80fc-4b1a-a144-4c09b6a5a538.png)
+  ### - [Second task](https://github.com/ValentinPisarevskiy/Practice/tree/main/Second_task/First_task/Controllers)<br>
+  ![218049066-ad43e7b0-8628-40b5-9df7-e5137ebe3453](https://user-images.githubusercontent.com/126852668/222668557-60ce8f77-b70f-460c-946f-0a94d31a0124.png)
 # Second Day
   ### - [Скрипт БД](https://github.com/ValentinPisarevskiy/Practice/blob/main/ShopDBApi.sql) ---Проектирование БД для API интернет-магазина--- <br> 
   #### Проектирование и создание БД
