@@ -1,12 +1,10 @@
 <div align="center">
 <h2 align="center">Hi there, I'm Student</a>
   <p align="center">
-    <img width="460" height="300" src="https://media.tenor.com/DeGMcBrA9-sAAAAd/slide-drift.gif">
+    <img width="460" height="300" src="">
   </p>
 <p> Mega Computer Student</p></a>
 </div>
-
-
 
 # First day. Begin
 
