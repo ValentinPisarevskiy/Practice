@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">Hi there, I'm Human,Racer and just Student</a>
   <p align="center">
-    <img width="620" height="426" src="![drift-cars (1)](https://user-images.githubusercontent.com/126852668/222673061-73da4a5b-c115-4267-9513-8153b127ae0e.gif)">
+    <img width="450" height="350" src="https://media.tenor.com/36DQ41b_r4wAAAAd/drift-cars.gif">
   </p>
 <p> Mega Computer Student</p></a>
 </div>
