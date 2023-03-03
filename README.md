@@ -1,7 +1,7 @@
 <div align="center">
-<h2 align="center">Hi there, I'm Student</a>
+<h2 align="center">Hi there, I'm Human,Racer and just Student</a>
   <p align="center">
-    <img width="460" height="300" src="">
+    <img width="620" height="426" src="https://media.tenor.com/36DQ41b_r4wAAAAd/drift-cars.gif">
   </p>
 <p> Mega Computer Student</p></a>
 </div>
@@ -15,5 +15,5 @@
   ### - [Скрипт БД](https://github.com/ValentinPisarevskiy/Practice/blob/main/ShopDBApi.sql) ---Проектирование БД для API интернет-магазина--- <br> 
   #### Проектирование и создание БД
   ![Снимок](https://user-images.githubusercontent.com/126852668/222654017-008deded-8b76-4ae7-8b79-e3fbf3879f8f.PNG)
-# Three Day
+# Third Day
   
