@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Hi there, I'm Human,Racer and just Student</a>
+<h2 align="center">Hi there, I'm Super Computer Student</a>
   <p align="center">
     <img width="450" height="350" src="https://media3.giphy.com/media/IYZyJmO6YNqaQ/200.webp?cid=ecf05e47nht2fvlyjdmaffwqhk2e7s6bggg5thb7lm3fxs3u&rid=200.webp&ct=g">
   </p>
