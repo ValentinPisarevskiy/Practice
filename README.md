@@ -3,7 +3,7 @@
   <p align="center">
     <img width="450" height="350" src="https://media3.giphy.com/media/IYZyJmO6YNqaQ/200.webp?cid=ecf05e47nht2fvlyjdmaffwqhk2e7s6bggg5thb7lm3fxs3u&rid=200.webp&ct=g">
   </p>
-<p> Mega Computer Student</p></a>
+<p> Mega Super Computer Student</p></a>
 </div>
 
 # First day. Begin
