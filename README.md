@@ -12,7 +12,7 @@
   ### - [Second task](https://github.com/ValentinPisarevskiy/Practice/tree/main/Second_task/First_task/Controllers)<br>
   ![218049066-ad43e7b0-8628-40b5-9df7-e5137ebe3453](https://user-images.githubusercontent.com/126852668/222668557-60ce8f77-b70f-460c-946f-0a94d31a0124.png)
 # Second Day
-  ### - [Скрипт БД](https://github.com/ValentinPisarevskiy/Practice/blob/main/ShopDBApi.sql) ---Проектирование БД для API интернет-магазина--- <br> 
+  ### - [Скрипт БД](https://github.com/ValentinPisarevskiy/Practice/blob/main/skript.sql) ---Проектирование БД для API интернет-магазина--- <br> 
   #### Проектирование и создание БД
   ![Снимок](https://user-images.githubusercontent.com/126852668/222654017-008deded-8b76-4ae7-8b79-e3fbf3879f8f.PNG)
 # Third Day
