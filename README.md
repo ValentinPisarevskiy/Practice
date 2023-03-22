@@ -25,5 +25,11 @@
   ### - [Работа №5](https://github.com/ValentinPisarevskiy/Practice/blob/main/Five_work.rar) ---Реализация приложения, подключенного в созданной ранее базе--- <br>
   #### Запуск приложения и вывод пользователя с ID = 1
   ![Снимок](https://user-images.githubusercontent.com/126852668/225989101-3fdaa9fd-3ad7-4fab-a59c-f146b78156ea.PNG)
-  ### - [Работа №6](https://github.com/ValentinPisarevskiy/Practice/blob/main/Six_Work.rar) ---В данной работе идет переход к ассинхронности в API-Приложении и некоторая работа с миграцией БД---
-  #### Пока ещё не доделано, :). Но все будет, обещаю(честно, честно)
+  ### - [Работа №6](https://github.com/ValentinPisarevskiy/Practice/blob/main/Six_work.rar) ---В данной работе идет переход к ассинхронности в API-Приложении и некоторая работа с миграцией БД---
+  #### Как и обещал, работа доделана. Выполнен переход на ассинхронность и миграция БД в SSMS. Имя первоначальной БД - "ShopDBApi". Имя новой БД - "ShopDBApi2"
+  #### - Команда Update-Database для миграции БД в SSMS 
+  ![Снимок1](https://user-images.githubusercontent.com/126852668/226987210-63e9b1b7-c17d-496f-83f1-c2b40e54a452.PNG)
+  #### - Появившаяся в SSMS БД "ShopDBApi2"
+  ![Снимок](https://user-images.githubusercontent.com/126852668/226989228-a63f3792-7d4c-433e-a03e-d901e33899ee.PNG)
+
+  
