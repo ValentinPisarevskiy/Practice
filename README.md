@@ -35,6 +35,6 @@
   ### - [Работа №7](https://github.com/ValentinPisarevskiy/Practice/blob/main/Seven_Work.7z0) ---Добавление и настройка под себя файла конфигурации(EditConfig)---
   #### - Файл editorconfig
   ![image](https://user-images.githubusercontent.com/126852668/229070335-a37318bf-3baf-46ee-bd31-c0f306521fd0.png)
-  #### - Добавление процесса непрерывной интеграции в репозиторий
+  #### - [.yml](https://github.com/ValentinPisarevskiy/Practice/blob/main/.github/workflows/dotnet-format.yml) ---Добавление процесса непрерывной интеграции в репозиторий. Добавление файла конфигурации(.yml) в GitHub Actions для его выполнения при соблюдении описаных в нем условий---
 
   
