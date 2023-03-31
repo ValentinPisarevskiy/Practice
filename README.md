@@ -31,5 +31,6 @@
   ![Снимок1](https://user-images.githubusercontent.com/126852668/226987210-63e9b1b7-c17d-496f-83f1-c2b40e54a452.PNG)
   #### - Появившаяся в SSMS БД "ShopDBApi2"
   ![Снимок](https://user-images.githubusercontent.com/126852668/226989228-a63f3792-7d4c-433e-a03e-d901e33899ee.PNG)
-
+# Sixth Day
+  ### - [Работа №7](https://github.com/ValentinPisarevskiy/Practice/blob/main/Seven_Work.7z0) ---Добавление и настройка под себя файла конфигурации(EditConfig)
   
