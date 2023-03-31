@@ -36,5 +36,7 @@
   #### - Файл editorconfig
   ![image](https://user-images.githubusercontent.com/126852668/229070335-a37318bf-3baf-46ee-bd31-c0f306521fd0.png)
   #### - [.yml](https://github.com/ValentinPisarevskiy/Practice/blob/main/.github/workflows/dotnet-format.yml) ---Добавление процесса непрерывной интеграции в репозиторий. Добавление файла конфигурации(.yml) в GitHub Actions для его выполнения при соблюдении описаных в нем условий---
+  ![image](https://user-images.githubusercontent.com/126852668/229077517-4ee50cdf-6267-460a-8ae4-b9fcd6b286dd.png)
+
 
   
