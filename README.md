@@ -37,7 +37,7 @@
   #### - [.yml](https://github.com/ValentinPisarevskiy/Practice/blob/main/.github/workflows/dotnet-format.yml) ---Добавление процесса непрерывной интеграции в репозиторий. Добавление файла конфигурации(.yml) в GitHub Actions для его выполнения при соблюдении описаных в нем условий---
   ![image](https://user-images.githubusercontent.com/126852668/229077517-4ee50cdf-6267-460a-8ae4-b9fcd6b286dd.png)
 # Восьмая работа
-  ### - [] ---Добавление описания методов API, исправление отображения Example Value---
+  ### - [Работа №8](https://github.com/ValentinPisarevskiy/Practice/blob/main/8_lab.7z) ---Добавление описания методов API, исправление отображения Example Value---
   #### - Описание методов API и исправленный Example Value:
   ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/f435c562-4129-4c0a-a023-ab23ed78b338)
   ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/75a9209c-4b8b-4a97-aaca-b441860d716d)
