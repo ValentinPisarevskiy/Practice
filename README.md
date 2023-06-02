@@ -44,6 +44,9 @@
   ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/f435c562-4129-4c0a-a023-ab23ed78b338)
   ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/75a9209c-4b8b-4a97-aaca-b441860d716d)
   ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/c49882ba-c108-4202-b54e-5c47bbfbe046)
+# Девятая работа 
+  ### - [Работа №9](https://github.com/ValentinPisarevskiy/Practice/blob/main/9_lab.rar) ---Добавление тестов для методов API--- 
+  ![image](https://github.com/ValentinPisarevskiy/Practice/assets/126852668/53e36362-c714-4a5d-84d7-507aa9ee3934)
 
 
 
